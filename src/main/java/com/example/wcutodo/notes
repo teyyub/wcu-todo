@@ -1,0 +1,12 @@
+Pending/Incomplete: Tasks that are yet to be completed.
+Completed: Tasks that have been finished.
+In Progress: Tasks that are currently being worked on.
+On Hold: Tasks that are temporarily suspended or delayed.
+Canceled/Abandoned: Tasks that have been canceled or abandoned.
+Deferred: Tasks that have been postponed to a later time.
+Scheduled: Tasks that are scheduled to be completed at a specific date or time.
+Waiting: Tasks that are waiting for some external event or input before they can be worked on.
+
+
+
+priority; // e.g., 'High', 'Medium', 'Low'
